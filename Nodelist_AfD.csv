@@ -1,9 +1,9 @@
-id,name,state,zip code,town,type,member,mandate,gender,alter,doctorate
+id,name,state,zip code,town,type,member,mandate,gender,age,doctorate
 Albert Gwinner,Albert Gwinner,Baden-Wuerttemberg,74523,Schwaebisch Hall,n,n,n,m,o,n
 Alexander Noll,Alexander Noll,Hessen,68642,Buerstadt,n,j,n,m,o,n
 Alexander Raue,Alexander Raue,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
-Alexander Sellentin,Alexander Sellentin,Bayern,91792,Ellingen,n,n,n,m,NA,n
-Alexander Werling,Alexander Werling,Bayern,81479,Muenchen,n,n,n,m,NA,n
+Alexander Sellentin,Alexander Sellentin,Bayern,91792,Ellingen,n,n,n,m,k,n
+Alexander Werling,Alexander Werling,Bayern,81479,Muenchen,n,n,n,m,k,n
 Alexander Wiesner,Alexander Wiesner,Sachen,01067,Dresden,n,j,j,m,y,n
 Andre Barth,Andre Barth,Sachsen,01067,Dresden,n,j,j,m,m,n
 Andre Poggenburg,Andre Poggenburg,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
@@ -11,7 +11,7 @@ Andre Wendt,Andre Wendt,Sachsen,01067,Dresden,n,j,j,m,m,n
 Andreas Bleck,Andreas Bleck,Berlin,11011,Berlin,n,j,j,m,y,n
 Andreas Keith Volkmer,Andreas Keith Volkmer,Nordrhein-Westfalen,40002,Duesseldorf,n,j,j,m,m,n
 Andreas Mrosek,Andreas Mrosek,Berlin,11011,Berlin,n,j,j,m,o,n
-Andreas Uhlig,Andreas Uhlig,Sachsen,01471,Radeburg/Berbisdorf,n,n,n,m,NA,n
+Andreas Uhlig,Andreas Uhlig,Sachsen,01471,Radeburg/Berbisdorf,n,n,n,m,k,n
 Andreas Winhart,Andreas Winhart,Bayern,81627,Muenchen,n,j,j,m,y,n
 Anna Engel,Anna Engel,Niedersachsen,31737,Rinteln,n,n,n,f,y,n
 Armin Paulus Hampel,Armin Paulus Hampel,Berlin,11011,Berlin,n,j,j,m,o,n
@@ -20,7 +20,7 @@ Beatrix von Storch,Beatrix von Storch,Berlin,11011,Berlin,n,j,n,f,m,n
 Berengar Elsner von Gronow,Berengar Elsner von Gronow,Berlin,11011,Berlin,n,j,j,m,m,n
 Bernd Goegel,Bernd Goegel,Baden-Wuerttemberg,70173,Stuttgart,n,j,j,m,o,n
 Bert Obereiner,Bert Obereiner,Mecklenburg-Vorpommern,19053,Schwerin,n,j,j,m,m,n
-Christian Duus,Christian Duus,Baden-Wuerttemberg,8703,Erlenbach,n,n,n,m,NA,n
+Christian Duus,Christian Duus,Baden-Wuerttemberg,8703,Erlenbach,n,n,n,m,k,n
 Christian Klingen,Christian Klingen,Bayern,81675,Muenchen,n,j,n,m,m,n
 Christian Krawinkel,Christian Krawinkel,Berlin,10117,Berlin,n,n,n,m,o,n
 Christian Ullrich Henkel,Christian Ullrich Henkel,Bayern,81627,Muenchen,n,j,j,m,o,n
@@ -32,9 +32,9 @@ Damian Lohr,Damian Lohr,Rheinland-Pfalz,55116,Mainz,n,n,n,m,y,n
 Dana Guth,Dana Guth,Niedersachsen,30159,Hannover,n,j,j,f,m,n
 Daniel Roi,Daniel Roi,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,y,n
 Detlev Spangenberg,Detlev Spangenberg,Berlin,11011,Berlin,n,j,j,m,o,n
-Dienstleistungsgesellschaft Raisdorf mbH,Leif-Erik,Schleswig-Holstein,24223,Schwentinental,j,,,,NA,
-Dieter Wieser,Dieter Wieser,Rheinland-Pfalz,76846,Hauenstein,n,j,j,m,NA,n
-Dietmar Friedhof,Dietmar Friedhof,Berlin,11011,Berlin,n,j,j,m,NA,n
+Dienstleistungsgesellschaft Raisdorf mbH,Leif-Erik,Schleswig-Holstein,24223,Schwentinental,j,,,,k,
+Dieter Wieser,Dieter Wieser,Rheinland-Pfalz,76846,Hauenstein,n,j,j,m,k,n
+Dietmar Friedhof,Dietmar Friedhof,Berlin,11011,Berlin,n,j,j,m,k,n
 Dirk Zobel,Dirk Zobel,Sachsen,09306,Seelitz OT Soernzig,n,j,n,m,m,n
 Dr Alice Weidel,Dr Alice Weidel,Berlin,11011,Berlin,n,j,j,f,m,j
 Dr Anne Elisabeth Cyron,Dr Anne Elisabeth Cyron,Bayern,81675,Muenchen,n,j,j,f,o,j
@@ -49,21 +49,21 @@ Dr Folkard Edler,Dr Folkard Edler,Hamburg,22605,Hamburg,n,n,n,m,o,j
 Dr Heiko Hessenkemper,Dr Heiko Hessenkemper,Berlin,11011,Berlin,n,j,j,m,o,j
 Dr Heiko Wildberg,Dr Heiko Wildberg,Berlin,11011,Berlin,n,j,j,m,o,j
 Dr Jan Bollinger,Dr Jan Bollinger,Rheinland-Pfalz,55116,Mainz,n,j,j,m,m,j
-Dr Joachim Fechner,Dr Joachim Fechner,Nordrhein-Westfalen,53773,Hennef,n,n,n,m,NA,j
+Dr Joachim Fechner,Dr Joachim Fechner,Nordrhein-Westfalen,53773,Hennef,n,n,n,m,k,j
 Dr Klaus Nordmann,Dr Klaus Nordmann,Nordrhein-Westfalen,50937,Koeln,n,n,n,m,o,j
 Dr Kristin Brinker,Dr Kristin Brinker,Berlin,10117,Berlin,n,j,j,f,m,j
 Dr Marc Jongen,Dr Marc Jongen,Berlin,11011,Berlin,n,j,j,m,m,j
-Dr Marianne Zubrzycki Lederhausen,Dr Marianne Zubrzycki Lederhausen,Nordrhein-Westfalen,53113,Bonn,n,n,n,f,NA,j
+Dr Marianne Zubrzycki Lederhausen,Dr Marianne Zubrzycki Lederhausen,Nordrhein-Westfalen,53113,Bonn,n,n,n,f,k,j
 Dr Michael Espendiller,Dr Michael Espendiller,Berlin,11011,Berlin,n,j,j,m,y,j
-Dr O K Wack Chemie GmbH,Dr O K Wack Chemie GmbH,Bayern,85053,Ingolstadt,j,,,,,
+Dr O K Wack Chemie GmbH,Dr O K Wack Chemie GmbH,Bayern,85053,Ingolstadt,j,,,,k,
 Dr Ralph Mueller,Dr Ralph Mueller,Bayern,81675,Muenchen,n,j,j,m,m,j
 Dr Robby Schlund,Dr Robby Schlund,Berlin,11011,Berlin,n,j,j,m,m,j
 Dr Roland Hartwig,Dr Roland Hartwig,Berlin,11011,Berlin,n,j,j,m,m,j
 Dr Rolf Weigand,Dr Rolf Weigand,Sachsen,01067,Dresden,n,j,j,m,y,j
-Dr Uwe Kaack,Dr Uwe Kaack,Schleswig-Holstein,24105,Kiel,n,n,n,m,NA,j
+Dr Uwe Kaack,Dr Uwe Kaack,Schleswig-Holstein,24105,Kiel,n,n,n,m,k,j
 Dr Winfried Schuhmann,Dr Winfried Schuhmann,Hessen,63543,Neuberg,n,n,n,m,o,j
 Enrico Komning,Enrico Komning,Berlin,11011,Berlin,n,j,j,m,m,n
-Erhard Schappeit,Erhard Schappeit,Niedersachsen,30449,Hannover,n,n,n,m,NA,n
+Erhard Schappeit,Erhard Schappeit,Niedersachsen,30449,Hannover,n,n,n,m,k,n
 Erich Schneekloth,Erich Schneekloth,Schleswig-Holstein,24321,Luetjenburg,n,n,n,m,o,n
 Erika Edler,Erika Edler,Hamburg,22605,Hamburg,n,n,n,f,o,n
 Evelyn Witerzens,Evelyn Witerzens,Niedersachsen,30659,Hannover,n,j,n,f,o,n
@@ -77,33 +77,33 @@ Dr Georg Fehrensen,Dr Georg Fehrensen,Mecklenburg-Vorpommern,17348,Woldegk,n,n,n
 Georg Pazderski,Georg Pazderski,Berlin,10117,Berlin,n,j,j,m,o,n
 Gerhard Schenk,Gerhard Schenk,Hessen,65183,Wiesbaden,n,j,j,m,o,n
 Gerold Otten,Gerold Otten,Berlin,11011,Berlin,n,j,j,m,o,n
-Jahr2013,Jahr 2013,,,,y,,,,,
-Jahr2014,Jahr 2014,,,,y,,,,,
-Jahr2015,Jahr 2015,,,,y,,,,,
-Jahr2016,Jahr 2016,,,,y,,,,,
-Jahr2017,Jahr 2017,,,,y,,,,,
-Jahr2018,Jahr 2018,,,,y,,,,,
-Jahr2019,Jahr 2019,,,,y,,,,,
-Jahr2020,Jahr 2020,,,,y,,,,,
+Jahr2013,Jahr 2013,,,,y,,,,k,
+Jahr2014,Jahr 2014,,,,y,,,,k,
+Jahr2015,Jahr 2015,,,,y,,,,k,
+Jahr2016,Jahr 2016,,,,y,,,,k,
+Jahr2017,Jahr 2017,,,,y,,,,k,
+Jahr2018,Jahr 2018,,,,y,,,,k,
+Jahr2019,Jahr 2019,,,,y,,,,k,
+Jahr2020,Jahr 2020,,,,y,,,,k,
 Gottfried Curio,Gottfried Curio,Berlin,11011,Berlin,n,j,j,m,o,n
 Gottfried Heller,Gottfried Heller,Bayern,80809,München,n,n,n,m,o,n
 Gregor Scheipers,Gregor Scheipers,Nordrhein-Westfalen,48308,Senden,n,n,n,m,o,n
 Guenter Gruber,Guenter Gruber,Bayern,82049,Pullach,n,n,n,m,o,n
-Guenter Reimer,Guenter Reimer,Hessen,65812,Bad Soden,n,n,n,m,NA,n
+Guenter Reimer,Guenter Reimer,Hessen,65812,Bad Soden,n,n,n,m,k,n
 Guido Reil,Guido Reil,Belgien,BEL-1047,Bruessel,n,j,j,m,m,n
-Hannelore Niess,Hannelore Niess,Bayern,91608,Geslau,n,n,n,f,NA,n
+Hannelore Niess,Hannelore Niess,Bayern,91608,Geslau,n,n,n,f,k,n
 Hannes Loth,Hannes Loth,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
 Hans Joachim Kuhs,Hans Joachim Kuhs,Belgien,BEL-1047,Bruessel,n,j,j,m,o,n
 Hans Joachim Roensch,Hans Joachim Roensch,Hessen,65199,Wiesbaden,n,n,n,m,o,n
 Hans Wall,Hans Wall,Berlin,14109,Berlin,n,n,n,m,o,n
 Hansjoerg Mueller,Hansjoerg Mueller,Berlin,11011,Berlin,n,j,j,m,m,n
 Harm Rykena,Harm Rykena,Niedersachsen,30159,Hannover,n,j,j,m,m,n
-Hellmut Foelster,Hellmut Foelster,Bayern,82211,Herrsching,n,n,n,m,NA,n
-Hentschke Bau GmbH,Hentschke Bau GmbH,Oesterreich,AUT-02625,Bautzen,j,n,,,,
-Herbert Rebmann,Herbert Rebmann,Rheinland-Pfalz,67435,Neustadt an der Weinstraße,n,n,n,m,NA,n
+Hellmut Foelster,Hellmut Foelster,Bayern,82211,Herrsching,n,n,n,m,k,n
+Hentschke Bau GmbH,Hentschke Bau GmbH,Oesterreich,AUT-02625,Bautzen,j,n,,,k,
+Herbert Rebmann,Herbert Rebmann,Rheinland-Pfalz,67435,Neustadt an der Weinstraße,n,n,n,m,k,n
 Heribert Friedmann,Heribert Friedmann,Berlin,11011,Berlin,n,j,j,m,o,n
 Holger Hentschel,Holger Hentschel,Sachen,01067,Dresden,n,j,j,m,y,n
-Horst Lieberwirth,Horst Lieberwirth,Mecklenburg-Vorpommern,17252,Roggentin,n,n,n,m,NA,n
+Horst Lieberwirth,Horst Lieberwirth,Mecklenburg-Vorpommern,17252,Roggentin,n,n,n,m,k,n
 Iris Nieland,Iris Nieland,Rheinland-Pfalz,55116,Mainz,n,j,j,f,o,n
 Jan Nolte,Jan Nolte,Berlin,11011,Berlin,n,j,j,m,y,n
 Jan Schiffers,Jan Schiffers,Bayern,81627,Muenchen,n,j,j,m,m,n
@@ -118,7 +118,7 @@ Joerg Schneider,Joerg Schneider,Berlin,11011,Berlin,n,j,j,m,m,n
 Joerg Urban,Joerg Urban,Sachen,01324,Dresden,n,j,j,m,m,n
 Joern Koenig,Joern Koenig,Berlin,11011,Berlin,n,j,j,m,m,n
 Johannes Huber,Johannes Huber,Berlin,11011,Berlin,n,j,j,m,y,n
-Johannes Ross,Johannes Ross,Bayern,83703,Gmund,n,n,n,m,NA,n
+Johannes Ross,Johannes Ross,Bayern,83703,Gmund,n,n,n,m,k,n
 Juergen Braun,Juergen Braun,Berlin,11011,Berlin,n,j,j,m,o,n
 Juergen Pohl,Juergen Pohl,Berlin,11011,Berlin,n,j,j,m,m,n
 Karin Wilke,Karin Wilke,Sachsen,01067,Dresden,n,j,j,f,o,n
@@ -126,14 +126,14 @@ Karsten Hilse,Karsten Hilse,Berlin,11011,Berlin,n,j,j,m,m,n
 Karsten Woldeit,Karsten Woldeit,Berlin,10117,Berlin,n,j,n,m,m,n
 Katrin Ebner Steiner,Katrin Ebener Steiner,Bayern,81675,Muenchen,n,j,j,f,m,n
 Kay Gottschalk,Kay Gottschalk,Berlin,11011,Berlin,n,j,j,m,m,n
-Klaus Karwahne,Klaus Karwahne,Niedersachsen,30177,Hannover,n,n,n,m,NA,n
+Klaus Karwahne,Klaus Karwahne,Niedersachsen,30177,Hannover,n,n,n,m,k,n
 Klaus Wichmann,Klaus Wichmann,Niedersachsen,30159,Hannover,n,j,j,m,m,n
-Kunststofftechnik Juliz GmbH,Kunststofftechnik Juliz GmbH,Niedersachsen,21614,Buxdehude,j,n,,,,
+Kunststofftechnik Juliz GmbH,Kunststofftechnik Juliz GmbH,Niedersachsen,21614,Buxdehude,j,n,,,k,
 Lars Herrmann,Lars Herrmann,Berlin,11011,Berlin,n,j,j,m,m,n
 Lars Kuppi,Lars Kuppi,Sachen,01067,Dresden,n,j,j,m,m,n
 Leif Erik Holm,Leif Erik Holm,Berlin,11011,Berlin,n,j,j,m,m,n
-Louis Werner Dornbrach,Louis Werner Dornbrach,,,,n,n,n,m,NA,n
-LST Luft Sanitaer Klimatechnik GmbH,LST Luft Sanitaer Klimatechnik GmbH,Sachsen,09120,Chemnitz,j,n,,,,
+Louis Werner Dornbrach,Louis Werner Dornbrach,,,,n,n,n,m,k,n
+LST Luft Sanitaer Klimatechnik GmbH,LST Luft Sanitaer Klimatechnik GmbH,Sachsen,09120,Chemnitz,j,n,,,k,
 Mario Beger,Mario Beger,Sachsen,01067,Dresden,n,j,j,m,m,n
 Markus Buchheit,Markus Buchheit,Belgien,BEL-1047,Bruessel,n,j,j,m,y,n
 Markus Frohnmaier,Markus Frohnmaier,Berlin,11011,Berlin,n,j,j,m,y,n
@@ -145,7 +145,7 @@ Martin Reichardt,Martin Reichardt,Berlin,11011,Berlin,n,j,j,m,m,n
 Martin Renner,Martin Renner,Berlin,11011,Berlin,n,j,j,m,o,n
 Martin Sichert,Martin Sichert,Berlin,11011,Berlin,n,j,j,m,m,n
 Michael Frisch,Michael Frisch,Rheinland-Pfalz,55116,Mainz,n,j,j,m,o,n
-Mortimer von Zitzewitz,Mortimer von Zitzewitz,Thailand,THA-10120,Bangkok,n,n,n,m,NA,n
+Mortimer von Zitzewitz,Mortimer von Zitzewitz,Thailand,THA-10120,Bangkok,n,n,n,m,k,n
 Nicole Hoechst,Nicole Hoechst,Berlin,11011,Berlin,n,j,j,f,m,n
 Norbert Kleinwaechter,Norbert Kleinwaechter,Berlin,11011,Berlin,n,j,j,m,y,n
 Paul Podolay,Paul Podolay,Berlin,11011,Berlin,n,j,j,m,o,n
@@ -157,9 +157,9 @@ Prof Dr Roland Vaubel,Prof Dr Roland Vaubel,Rheinland-Pfalz,67435,Neustadt/Weins
 Rainer Balzer ,Rainer Balzer ,Baden-Wuerttemberg,76669,Bad Schoenborn,n,j,j,m,o,n
 Rainer Kraft,Rainer Kraft,Berlin,11011,Berlin,n,j,j,m,m,n
 Rainer Podeswa,Rainer Podeswa,Baden-Wuerttemberg,70173,Stuttgart,n,j,j,m,o,n
-Rainer Schwarzlose,Rainer Schwarzlose,Brandenburg,14712,Rathenow,n,n,n,m,NA,n
+Rainer Schwarzlose,Rainer Schwarzlose,Brandenburg,14712,Rathenow,n,n,n,m,k,n
 Ralf Stadler,Ralf Stadler,Bayern,81675,Muenchen,n,j,j,m,m,n
-Reiner Strangfeld,Reiner Strangfeld,Niedersachsen,31675,Bueckeburg,n,n,n,m,NA,n
+Reiner Strangfeld,Reiner Strangfeld,Niedersachsen,31675,Bueckeburg,n,n,n,m,k,n
 Rene Springer,Rene Springer,Berlin,11011,Berlin,n,j,n,m,m,n
 Richard Graupner,Richard Graupner,Bayern,81627,Muenchen,n,j,j,m,m,n
 Robert Lambrou,Robert Lambrou,Hessen,65183,Wiesbaden,n,j,j,m,m,n
@@ -169,7 +169,7 @@ Ronald Glaeser,Ronald Glaeser,Berlin,10117,Berlin,n,j,n,m,m,n
 Ruediger Lucassen,Ruediger Lucassen,Berlin,11011,Berlin,n,j,j,m,o,n
 Sebastian Muenzenmaier,Sebastian Muenzenmaier,Berlin,11011,Berlin,n,j,j,m,y,n
 Siegbert Frank Droese,Siegbert Frank Droese,Berlin,11011,Berlin,n,j,j,m,m,n
-so cas GmbH,so cas GmbH,Nordrhein-Westfalen,52072,Aachen,j,n,,,,
+so cas GmbH,so cas GmbH,Nordrhein-Westfalen,52072,Aachen,j,n,,,k,
 Stefan Keuter,Stefan Keuter,Berlin,11011,Berlin,n,j,j,m,m,n
 Stefan Loew,Stefan Loew,Bayern,81627,Muenchen,n,j,j,m,y,n
 Steffen Kotre,Steffen Kotre,Berlin,11011,Berlin,n,j,j,m,m,n
@@ -190,16 +190,16 @@ Uwe Wurlitzer,Uwe Wurlitzer,Sachsen,01067,Dresden,n,j,j,m,m,n
 Volker Muenz,Volker Muenz,Berlin,11011,Berlin,n,j,j,m,m,n
 Volker Olenicak,Volker Olenicak,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
 Volker Schnurrbusch,Volker Schnurrbusch,Schleswig-Holstein,24105,Kiel,n,j,j,m,o,n
-Wahl Bau GmbH,Wahl Bau GmbH,Baden-Wuerttemberg,73113,Ottenbach,j,,,,,
+Wahl Bau GmbH,Wahl Bau GmbH,Baden-Wuerttemberg,73113,Ottenbach,j,,,,k,
 Waldemar Herdt,Waldemar Herdt,Berlin,11011,Berlin,n,j,j,m,m,n
-Walter Haarmann,Walter Haarmann,Niedersachsen,38304,Wolfenbuettel,n,n,n,m,NA,n
-Walter Hubert Kraus,Walter Hubert Kraus,Nordrhein-Westfalen,40221,Duesseldorf,n,n,n,m,NA,n
+Walter Haarmann,Walter Haarmann,Niedersachsen,38304,Wolfenbuettel,n,n,n,m,k,n
+Walter Hubert Kraus,Walter Hubert Kraus,Nordrhein-Westfalen,40221,Duesseldorf,n,n,n,m,k,n
 Walter Wissenbach,Walter Wissenbach,Hessen,65183,Wiesbaden,n,j,j,m,o,n
-Wilfried Evermann,Wilfried Evermann,Niedersachsen,49152,Bad Essen,n,n,n,m,NA,n
+Wilfried Evermann,Wilfried Evermann,Niedersachsen,49152,Bad Essen,n,n,n,m,k,n
 Winfried Stoecker,Winfried Stoecker,Schleswig-Holstein,23627,Groß Groenau,n,n,n,m,o,n
-Wolfgang Brakel,Wolfgang Brakel,Nordrhein-Westfalen,45481,Muelheim an der Ruhr,n,n,n,m,NA,n
-Wolfgang Leisner,Wolfgang Leisner,Schleswig-Holstein,24226,Heikendorf,n,n,n,m,NA,n
-Wolfgang von Moers,Wolfgang von Moers,Nordrhein-Westfalen,50968,Koeln,n,j,n,m,NA,n
+Wolfgang Brakel,Wolfgang Brakel,Nordrhein-Westfalen,45481,Muelheim an der Ruhr,n,n,n,m,k,n
+Wolfgang Leisner,Wolfgang Leisner,Schleswig-Holstein,24226,Heikendorf,n,n,n,m,k,n
+Wolfgang von Moers,Wolfgang von Moers,Nordrhein-Westfalen,50968,Koeln,n,j,n,m,k,n
 Wolfgang Wiehle,Wolfgang Wiehle,Berlin,11011,Berlin,n,j,j,m,m,n
 Wolfram Keil,Wolfram Keil,Sachsen,01067,Dresden,n,n,n,m,m,n
-Zoz GmbH,Zoz GmbH,Nordrhein-Westfalen,57482,Wenden,j,,,,,
+Zoz GmbH,Zoz GmbH,Nordrhein-Westfalen,57482,Wenden,j,,,,k,
