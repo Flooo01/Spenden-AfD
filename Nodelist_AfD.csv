@@ -1,4 +1,4 @@
-id,name,state,zip code,town,type,member,mandate,gender,age,doctorate
+id,name,state,zip code,town,type,member,mandate,gender,alter,doctorate
 Albert Gwinner,Albert Gwinner,Baden-Wuerttemberg,74523,Schwaebisch Hall,n,n,n,m,o,n
 Alexander Noll,Alexander Noll,Hessen,68642,Buerstadt,n,j,n,m,o,n
 Alexander Raue,Alexander Raue,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
