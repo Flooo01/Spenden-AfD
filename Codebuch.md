@@ -1,3 +1,5 @@
+CODEBUCH ZUM SPENDENNETZWERK DER AFD
+
 Datenquelle: Rechenschaftsberichte des Deutschen Bundestages (https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/rechenschaftsberichte/rechenschaftsberichte-202446)
 
 Edgelist:
