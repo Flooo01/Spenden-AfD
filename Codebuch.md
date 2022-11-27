@@ -22,9 +22,6 @@ Edgelist:
     </tr>
     <tr>
       <td>donation</td>
-      <td>definiert den Empfänger der Spende</td>
-    </tr> <tr>
-      <td>to</td>
       <td>Höhe der Spende, gerundet und geteilt durch 10000</td>
     </tr>
     <tr>
