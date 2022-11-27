@@ -97,4 +97,5 @@ Nodelist:
 
 	
 NA definiert fehlende Werte
-*zur leichteren Heraufilterung wurde hier neben y, m und o der Parameter k für "keine Altersangabe" eingeführt
+
+<i>*zur leichteren Heraufilterung wurde hier neben y, m und o der Parameter k für "keine Altersangabe" eingeführt</i>
