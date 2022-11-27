@@ -86,14 +86,15 @@ Nodelist:
     </tr>
     <tr>
       <td>alter</td>
-      <td>Alter des Spenders zum Zeitpunkt der Spende: 20-39 Jahre= y(oung), 40-59 Jahre=m(iddle), 60+=o(ld)</td>
+      <td>Alter des Spenders zum Zeitpunkt der Spende: 20-39 Jahre= y(oung), 40-59 Jahre=m(iddle), 60+=o(ld)*</td>
     </tr>
     <tr>
       <td>doctorade</td>
-      <td>Promotion: ja (j) oder nein (n)</td>
+      <td>Promotion: ja (j) oder nein (n)?</td>
     </tr>
   </tbody>
 </table>
 
 	
 NA definiert fehlende Werte
+*zur leichteren Heraufilterung wurde hier neben y, m und o der Parameter k für "keine Altersangabe" eingeführt
