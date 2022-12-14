@@ -32,7 +32,7 @@ Damian Lohr,Damian Lohr,Rheinland-Pfalz,55116,Mainz,n,n,n,m,y,n
 Dana Guth,Dana Guth,Niedersachsen,30159,Hannover,n,j,j,f,m,n
 Daniel Roi,Daniel Roi,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,y,n
 Detlev Spangenberg,Detlev Spangenberg,Berlin,11011,Berlin,n,j,j,m,o,n
-Dienstleistungsgesellschaft Raisdorf mbH,Dienstleistungsgesellschaft Raisdorf mbH,Schleswig-Holstein,24223,Schwentinental,j,,,,k,
+Dienstleistungsgesellschaft Raisdorf mbH,Dienstleistungsgesellschaft Raisdorf mbH,Schleswig-Holstein,24223,Schwentinental,j,,,k,k,
 Dieter Wieser,Dieter Wieser,Rheinland-Pfalz,76846,Hauenstein,n,j,j,m,k,n
 Dietmar Friedhof,Dietmar Friedhof,Berlin,11011,Berlin,n,j,j,m,k,n
 Dirk Zobel,Dirk Zobel,Sachsen,09306,Seelitz OT Soernzig,n,j,n,m,m,n
@@ -55,7 +55,7 @@ Dr Kristin Brinker,Dr Kristin Brinker,Berlin,10117,Berlin,n,j,j,f,m,j
 Dr Marc Jongen,Dr Marc Jongen,Berlin,11011,Berlin,n,j,j,m,m,j
 Dr Marianne Zubrzycki Lederhausen,Dr Marianne Zubrzycki Lederhausen,Nordrhein-Westfalen,53113,Bonn,n,n,n,f,k,j
 Dr Michael Espendiller,Dr Michael Espendiller,Berlin,11011,Berlin,n,j,j,m,y,j
-Dr O K Wack Chemie GmbH,Dr O K Wack Chemie GmbH,Bayern,85053,Ingolstadt,j,,,,k,
+Dr O K Wack Chemie GmbH,Dr O K Wack Chemie GmbH,Bayern,85053,Ingolstadt,j,,,k,k,
 Dr Ralph Mueller,Dr Ralph Mueller,Bayern,81675,Muenchen,n,j,j,m,m,j
 Dr Robby Schlund,Dr Robby Schlund,Berlin,11011,Berlin,n,j,j,m,m,j
 Dr Roland Hartwig,Dr Roland Hartwig,Berlin,11011,Berlin,n,j,j,m,m,j
@@ -99,7 +99,7 @@ Hans Wall,Hans Wall,Berlin,14109,Berlin,n,n,n,m,o,n
 Hansjoerg Mueller,Hansjoerg Mueller,Berlin,11011,Berlin,n,j,j,m,m,n
 Harm Rykena,Harm Rykena,Niedersachsen,30159,Hannover,n,j,j,m,m,n
 Hellmut Foelster,Hellmut Foelster,Bayern,82211,Herrsching,n,n,n,m,k,n
-Hentschke Bau GmbH,Hentschke Bau GmbH,Oesterreich,AUT-02625,Bautzen,j,n,,,k,
+Hentschke Bau GmbH,Hentschke Bau GmbH,Oesterreich,AUT-02625,Bautzen,j,n,,k,k,
 Herbert Rebmann,Herbert Rebmann,Rheinland-Pfalz,67435,Neustadt an der Weinstraße,n,n,n,m,k,n
 Heribert Friedmann,Heribert Friedmann,Berlin,11011,Berlin,n,j,j,m,o,n
 Holger Hentschel,Holger Hentschel,Sachen,01067,Dresden,n,j,j,m,y,n
@@ -128,12 +128,12 @@ Katrin Ebner Steiner,Katrin Ebener Steiner,Bayern,81675,Muenchen,n,j,j,f,m,n
 Kay Gottschalk,Kay Gottschalk,Berlin,11011,Berlin,n,j,j,m,m,n
 Klaus Karwahne,Klaus Karwahne,Niedersachsen,30177,Hannover,n,n,n,m,k,n
 Klaus Wichmann,Klaus Wichmann,Niedersachsen,30159,Hannover,n,j,j,m,m,n
-Kunststofftechnik Juliz GmbH,Kunststofftechnik Juliz GmbH,Niedersachsen,21614,Buxdehude,j,n,,,k,
+Kunststofftechnik Juliz GmbH,Kunststofftechnik Juliz GmbH,Niedersachsen,21614,Buxdehude,j,n,,k,k,
 Lars Herrmann,Lars Herrmann,Berlin,11011,Berlin,n,j,j,m,m,n
 Lars Kuppi,Lars Kuppi,Sachen,01067,Dresden,n,j,j,m,m,n
 Leif Erik Holm,Leif Erik Holm,Berlin,11011,Berlin,n,j,j,m,m,n
 Louis Werner Dornbrach,Louis Werner Dornbrach,,,,n,n,n,m,k,n
-LST Luft Sanitaer Klimatechnik GmbH,LST Luft Sanitaer Klimatechnik GmbH,Sachsen,09120,Chemnitz,j,n,,,k,
+LST Luft Sanitaer Klimatechnik GmbH,LST Luft Sanitaer Klimatechnik GmbH,Sachsen,09120,Chemnitz,j,n,,k,k,
 Mario Beger,Mario Beger,Sachsen,01067,Dresden,n,j,j,m,m,n
 Markus Buchheit,Markus Buchheit,Belgien,BEL-1047,Bruessel,n,j,j,m,y,n
 Markus Frohnmaier,Markus Frohnmaier,Berlin,11011,Berlin,n,j,j,m,y,n
@@ -169,7 +169,7 @@ Ronald Glaeser,Ronald Glaeser,Berlin,10117,Berlin,n,j,n,m,m,n
 Ruediger Lucassen,Ruediger Lucassen,Berlin,11011,Berlin,n,j,j,m,o,n
 Sebastian Muenzenmaier,Sebastian Muenzenmaier,Berlin,11011,Berlin,n,j,j,m,y,n
 Siegbert Frank Droese,Siegbert Frank Droese,Berlin,11011,Berlin,n,j,j,m,m,n
-so cas GmbH,so cas GmbH,Nordrhein-Westfalen,52072,Aachen,j,n,,,k,
+so cas GmbH,so cas GmbH,Nordrhein-Westfalen,52072,Aachen,j,n,,k,k,
 Stefan Keuter,Stefan Keuter,Berlin,11011,Berlin,n,j,j,m,m,n
 Stefan Loew,Stefan Loew,Bayern,81627,Muenchen,n,j,j,m,y,n
 Steffen Kotre,Steffen Kotre,Berlin,11011,Berlin,n,j,j,m,m,n
@@ -190,7 +190,7 @@ Uwe Wurlitzer,Uwe Wurlitzer,Sachsen,01067,Dresden,n,j,j,m,m,n
 Volker Muenz,Volker Muenz,Berlin,11011,Berlin,n,j,j,m,m,n
 Volker Olenicak,Volker Olenicak,Sachsen-Anhalt,39104,Magdeburg,n,j,j,m,m,n
 Volker Schnurrbusch,Volker Schnurrbusch,Schleswig-Holstein,24105,Kiel,n,j,j,m,o,n
-Wahl Bau GmbH,Wahl Bau GmbH,Baden-Wuerttemberg,73113,Ottenbach,j,,,,k,
+Wahl Bau GmbH,Wahl Bau GmbH,Baden-Wuerttemberg,73113,Ottenbach,j,,,k,k,
 Waldemar Herdt,Waldemar Herdt,Berlin,11011,Berlin,n,j,j,m,m,n
 Walter Haarmann,Walter Haarmann,Niedersachsen,38304,Wolfenbuettel,n,n,n,m,k,n
 Walter Hubert Kraus,Walter Hubert Kraus,Nordrhein-Westfalen,40221,Duesseldorf,n,n,n,m,k,n
@@ -202,4 +202,4 @@ Wolfgang Leisner,Wolfgang Leisner,Schleswig-Holstein,24226,Heikendorf,n,n,n,m,k,
 Wolfgang von Moers,Wolfgang von Moers,Nordrhein-Westfalen,50968,Koeln,n,j,n,m,k,n
 Wolfgang Wiehle,Wolfgang Wiehle,Berlin,11011,Berlin,n,j,j,m,m,n
 Wolfram Keil,Wolfram Keil,Sachsen,01067,Dresden,n,n,n,m,m,n
-Zoz GmbH,Zoz GmbH,Nordrhein-Westfalen,57482,Wenden,j,,,,k,
+Zoz GmbH,Zoz GmbH,Nordrhein-Westfalen,57482,Wenden,j,,,k,k,
