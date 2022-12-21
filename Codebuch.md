@@ -93,4 +93,4 @@ Nodelist:
 </table>
 
 	
-<i>Info: Der Parameter k definiert fehlende Werte im Datensatz</i>
+<i>Info: k definiert fehlende Werte im Datensatz.</i>
