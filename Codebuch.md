@@ -93,6 +93,4 @@ Nodelist:
 </table>
 
 	
-NA definiert fehlende Werte
-
-<i>*zur leichteren Heraufilterung in RStudio wurde hier neben y, m und o der Parameter k für "keine Altersangabe" eingeführt</i>
+<i>Info: Der Parameter k definiert fehlende Werte im Datensatz</i>
